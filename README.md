@@ -4,7 +4,7 @@
 
 <!-- Animated Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Enthusiast;Building+scalable+web+apps;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Software+Developer;C%23+%26+.NET+Specialist;Desktop+%26+Web+Applications;Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
 
 <br />
@@ -30,9 +30,9 @@
 ### 🧐 About Me
 
 - 🔭 I’m currently working on **[Project Name / Current Focus]**
-- 🌱 I’m currently learning **[New Tech / Framework, e.g., Go, Next.js, AWS]**
+- 🌱 I’m currently learning **[New Tech / Framework, e.g., ASP.NET Core microservices]**
 - 👯 I’m looking to collaborate on **[Open Source / Specific Projects]**
-- 💬 Ask me about **[Your Core Strengths, e.g., React, Python, System Architecture]**
+- 💬 Ask me about **[C#, .NET, SQL Server, WPF, Arduino embedded systems]**
 - ⚡ Fun fact: **[Insert a cool personal detail or hobby]**
 
 <!-- Animated Line Divider -->
@@ -42,21 +42,34 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**
+**Languages**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-**Databases & DevOps**
+**Frameworks & Technologies**
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Classic_ASP-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="ASP.NET Classic" />
+</p>
+
+**App Types & Desktop Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/Console_Apps-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Console / CMD Apps" />
+</p>
+
+**Databases & Hosting**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SmarterASP.NET-004080?style=for-the-badge&logo=serverless&logoColor=white" alt="SmarterASP.NET" />
 </p>
 
 <!-- Animated Line Divider -->
@@ -93,8 +106,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🚀 **[Project 1 Name](https://github.com/yourusername/repo-1)** | Short description of what this project does and why it matters. | React, Node.js, MongoDB |
-| ⚡ **[Project 2 Name](https://github.com/yourusername/repo-2)** | Short description of key features and business value. | Python, FastAPI, Docker |
+| 🚀 **[Project 1 Name](https://github.com/yourusername/repo-1)** | Enterprise Web App hosted on SmarterASP.NET. | ASP.NET Core, Bootstrap, SQL Server |
+| ⚡ **[Project 2 Name](https://github.com/yourusername/repo-2)** | Desktop Application with modern UI controls. | C#, WPF, MySQL |
+| 🛠️ **[Project 3 Name](https://github.com/yourusername/repo-3)** | Embedded hardware automation tool. | Arduino, C++, CMD Tools |
 
 <!-- Animated Line Divider -->
 <p align="center">
