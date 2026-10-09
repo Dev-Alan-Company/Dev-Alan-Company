@@ -10,15 +10,15 @@
 <br />
 
 <!-- Animated Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Dev-Alan-Company)
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=gatsby&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dev-Alan-Company)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 <br />
 
 <!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=007ec6" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Dev-Alan-Company&style=flat-square&color=007ec6" alt="Profile Views" />
 
 </div>
 
@@ -80,21 +80,21 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Dev-Alan-Company&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dev-Alan-Company&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radial&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Dev-Alan-Company&theme=radial&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Dev-Alan-Company/Dev-Alan-Company/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <!-- Animated Line Divider -->
@@ -106,25 +106,12 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🚀 **[Project 1 Name](https://github.com/yourusername/repo-1)** | Enterprise Web App hosted on SmarterASP.NET. | ASP.NET Core, Bootstrap, SQL Server |
-| ⚡ **[Project 2 Name](https://github.com/yourusername/repo-2)** | Desktop Application with modern UI controls. | C#, WPF, MySQL |
-| 🛠️ **[Project 3 Name](https://github.com/yourusername/repo-3)** | Embedded hardware automation tool. | Arduino, C++, CMD Tools |
-
-<!-- Animated Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%" />
-</p>
-
-### 🎵 Currently Playing
-
-<div align="center">
-  <a href="https://spotify-github-readme.vercel.app/api/spotify-playing">
-    <img src="https://spotify-github-readme.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
+| 🚀 **[Project 1 Name](https://github.com/Dev-Alan-Company/repo-1)** | Enterprise Web App hosted on SmarterASP.NET. | ASP.NET Core, Bootstrap, SQL Server |
+| ⚡ **[Project 2 Name](https://github.com/Dev-Alan-Company/repo-2)** | Desktop Application with modern UI controls. | C#, WPF, MySQL |
+| 🛠️ **[Project 3 Name](https://github.com/Dev-Alan-Company/repo-3)** | Embedded hardware automation tool. | Arduino, C++, CMD Tools |
 
 <br />
 
 <div align="center">
-  <sub>Designed with ❤️ by [Your Name]</sub>
+  <sub>Designed with ❤️ by Dev-Alan-Company</sub>
 </div>
